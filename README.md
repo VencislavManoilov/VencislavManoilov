@@ -45,7 +45,7 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VencislavManoilov\&rank_icon=github&theme=radical))
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VencislavManoilov\&rank_icon=github&hide_title=true&theme=radical))
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VencislavManoilov\&layout=compact)
 
