@@ -72,7 +72,3 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 ## 🎨 Other Interests
 
 The desire to jump of a cliff
-
----
-
-⭐️ From [Vencislav Manoilov](https://github.com/VencislavManoilov)
