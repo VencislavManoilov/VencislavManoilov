@@ -46,9 +46,9 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=VencislavManoilov&theme=radical&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VencislavManoilov&rank_icon=github&hide_title=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VencislavManoilov&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://streak-stats.demolab.com?user=VencislavManoilov&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VencislavManoilov&rank_icon=github&hide_title=true&theme=radical&hide=border" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VencislavManoilov&hide=C%23&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 ## 🏆 GitHub Trophies
