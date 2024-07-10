@@ -57,9 +57,9 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 ## 🔗 My Top 3 Projects
 
-- [Habit Trackr](https://github.com/yourusername/HabitTrackr) - Makes you create good habits and destroy bad ones
-- [Code Snippets Menager](https://github.com/yourusername/Code-Snippets-Manager) - Post and share with anyone your code snippets
-- [URL Shortener](https://github.com/yourusername/URL-Shorter) - The title explains everything
+- [Habit Trackr](https://github.com/VencislavManoilov/HabitTrackr) - Makes you create good habits and destroy bad ones
+- [Code Snippets Manager](https://github.com/VencislavManoilov/Code-Snippets-Manager) - Post and share with anyone your code snippets
+- [URL Shortener](https://github.com/VencislavManoilov/URL-Shorter) - The title explains everything
 
 <!--
 ## 📫 Connect with Me
