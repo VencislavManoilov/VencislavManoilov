@@ -1,4 +1,4 @@
-# Hi there, I'm Venci! 👋
+<h1 align="center">Hi there, I'm Venci! 👋</h1>
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/ventsislav-manoilov-a82210272/)
 [![GitHub Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white&link=https://github.com/VencislavManoilov)](https://github.com/VencislavManoilov)
