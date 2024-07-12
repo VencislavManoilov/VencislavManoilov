@@ -53,7 +53,9 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=VencislavManoilov&theme=onedark)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VencislavManoilov&theme=onedark&row=2&column=3" alt="trophy">
+</div>
 
 ## 🔗 My Top 3 Projects
 
