@@ -61,7 +61,7 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 - [Habit Trackr](https://github.com/VencislavManoilov/HabitTrackr) - Makes you create good habits and destroy bad ones
 - [Code Snippets Manager](https://github.com/VencislavManoilov/Code-Snippets-Manager) - Post and share with anyone your code snippets
-- [URL Shortener](https://github.com/VencislavManoilov/URL-Shorter) - The title explains everything
+- [Everything is OK](https://github.com/VencislavManoilov/Everything-is-OK) - Chat website that help users calm their worries and problems
 
 <!--
 ## 📫 Connect with Me
