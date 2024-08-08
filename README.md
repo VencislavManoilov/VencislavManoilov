@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Venci! 👋</h1>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/ventsislav-manoilov-a82210272/)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ventsislav-manoilov-a82210272/)
 [![GitHub Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/VencislavManoilov)
-[![X Badge](https://img.shields.io/badge/-Venci-black?style=flat&logo=X&logoColor=whitelink=https://x.com/venci71694746)](https://x.com/venci71694746)
-[![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail&logoColor=whitelink=mailto:vencislav2.manoilov@gmail.com)](mailto:vencislav2.manoilov@gmail.com)
+[![X Badge](https://img.shields.io/badge/-Venci-black?style=flat&logo=X&logoColor=white)](https://x.com/venci71694746)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:vencislav2.manoilov@gmail.com)
 
 Welcome to my GitHub profile!
 
