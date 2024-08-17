@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ventsislav-manoilov-a82210272/)
 [![GitHub Badge](https://img.shields.io/badge/-Github-black?style=flat&logo=github&logoColor=white)](https://github.com/VencislavManoilov)
 [![X Badge](https://img.shields.io/badge/-Venci-black?style=flat&logo=X&logoColor=white)](https://x.com/venci71694746)
-[![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:vencislav2.manoilov@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-white?style=flat&logo=gmail)](mailto:vencislav@manoilov.email)
 
 Welcome to my GitHub profile!
 
