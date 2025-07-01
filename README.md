@@ -47,7 +47,7 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VencislavManoilov&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=VencislavManoilov&rank_icon=github&hide_title=true&theme=radical&hide=border" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VencislavManoilov&hide_title=true&theme=radical&hide=border" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VencislavManoilov&hide=C%23&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
@@ -59,9 +59,7 @@ One of my current goals is to achieve a full year of daily contributions on GitH
 
 ## 🔗 My Top 3 Projects
 
-- [Habit Trackr](https://github.com/VencislavManoilov/HabitTrackr) - Makes you create good habits and destroy bad ones
-- [Code Snippets Manager](https://github.com/VencislavManoilov/Code-Snippets-Manager) - Post and share with anyone your code snippets
-- [Everything is OK](https://github.com/VencislavManoilov/Everything-is-OK) - Chat website that help users calm their worries and problems
+- Are constantly changing! Check the pins below
 
 <!--
 ## 📫 Connect with Me
